@@ -1,3 +1,4 @@
+#QueryNet
 This project aims to revolutionize the way our university community engages with both academic and extracurricular activities. Our comprehensive platform serves as a central hub, unifying essential university elements to enhance the overall student experience.
 Key features include:
 
